@@ -101,4 +101,4 @@ Execute the program
 </html>
 ~~~
 # OUPUT
-![GitHub Logo](K Sucharitha Chowdhary_TT.png)
+![output](https://github.com/Sucharithachowdary/timetable/blob/main/ex2.jpg?raw=true)
